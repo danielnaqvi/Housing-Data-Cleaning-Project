@@ -1,4 +1,4 @@
-Housing Data Cleaning and Preparation in SQL
+# Housing Data Cleaning and Preparation in SQL
 This project focuses on cleaning and preparing a raw housing dataset using SQL Server. The goal was to standardize dates, populate missing fields, split address components, remove duplicates, and prepare the dataset for visualization in Tableau.
 
 Tableau Dashboard
